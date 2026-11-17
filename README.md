@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F172A?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" alt="GFG" />
   </a>
   <!-- Replace with your LinkedIn URL -->
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/aditya-gangwar-7374a2373/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
 </p>
@@ -51,7 +51,7 @@
 ### ⚙️ Core Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,c,js,php,html,css,mysql,git,github,vscode,linux&perline=6" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,py,c,php,html,css,mysql,git,github,vscode&perline=6" alt="Tech Stack" />
 </p>
 
 ---
