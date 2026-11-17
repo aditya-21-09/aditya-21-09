@@ -31,7 +31,7 @@
 | Domain | What I Build & Practice |
 | :--- | :--- |
 | **Software & Web Systems** | Full-stack web applications using **HTML, CSS, JavaScript, PHP, and XML**, emphasizing clean architecture and zero unnecessary framework bloat. |
-| **Data & Machine Learning** | End-to-end exploratory analysis, predictive ML models in **Python & Streamlit**, and executive dashboards in **Power BI, MySQL, and Excel**. |
+| **Data & Machine Learning** | End-to-end exploratory analysis, predictive models in **Python**, and executive dashboards in **Power BI, MySQL, and Excel**. |
 | **Core CS & Algorithms** | Daily problem-solving in **Java & C** across dynamic programming, trees, heaps, and graph algorithms, backed by strong **DBMS & OS** fundamentals. |
 
 ---
