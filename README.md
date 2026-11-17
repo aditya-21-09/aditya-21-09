@@ -18,7 +18,6 @@
   <a href="https://www.geeksforgeeks.org/profile/adityagan73jd">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F172A?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" alt="GFG" />
   </a>
-  <!-- Replace with your LinkedIn URL -->
   <a href="https://www.linkedin.com/in/aditya-gangwar-7374a2373/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
@@ -40,10 +39,8 @@
 
 | Project | What It Does | Core Stack |
 | :--- | :--- | :--- |
-| **[E-Commerce Sales & Customer Analysis](https://github.com/aditya-21-09/Ecommerce-sales-customer-analysis)** | Business intelligence dashboard tracking revenue trends, product performance, and customer segments[cite: 1]. | `Power BI` `DAX` `Data Modeling` |
-| **[Netflix Content Analytics](https://github.com/aditya-21-09/Netflix-Data-Analysis)** | Deep-dive analysis of global catalog distribution, release trends, and ratings across regions[cite: 1]. | `MySQL` `Power BI` `Excel` |
-
-> *Tip: Once you push your full-stack web project (like a productivity dashboard) to GitHub, add it as the top row in this table.*
+| **[E-Commerce Sales & Customer Analysis](https://github.com/aditya-21-09/Ecommerce-sales-customer-analysis)** | Business intelligence dashboard tracking revenue trends, product performance, and customer segments. | `Power BI` `DAX` `Data Modeling` |
+| **[Netflix Content Analytics](https://github.com/aditya-21-09/Netflix-Data-Analysis)** | Deep-dive analysis of global catalog distribution, release trends, and ratings across regions. | `MySQL` `Power BI` `Excel` |
 
 ---
 
