@@ -20,7 +20,7 @@
   </a>
   <!-- Replace with your LinkedIn URL -->
   <a href="https://www.linkedin.com/in/aditya-gangwar-7374a2373/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
 </p>
 
