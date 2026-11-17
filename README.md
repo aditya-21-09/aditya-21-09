@@ -40,7 +40,6 @@
 
 | Project | What It Does | Core Stack |
 | :--- | :--- | :--- |
-| **[Titanic Survival Predictor](https://github.com/aditya-21-09/titanic-survival-predictor)** | Interactive ML web app that predicts passenger survival probabilities with real-time feature inputs[cite: 1]. | `Python` `Scikit-Learn` `Streamlit` |
 | **[E-Commerce Sales & Customer Analysis](https://github.com/aditya-21-09/Ecommerce-sales-customer-analysis)** | Business intelligence dashboard tracking revenue trends, product performance, and customer segments[cite: 1]. | `Power BI` `DAX` `Data Modeling` |
 | **[Netflix Content Analytics](https://github.com/aditya-21-09/Netflix-Data-Analysis)** | Deep-dive analysis of global catalog distribution, release trends, and ratings across regions[cite: 1]. | `MySQL` `Power BI` `Excel` |
 
